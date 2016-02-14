@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:1
+-keep class processing.test.glp_bucket_database_android_final.GLP_bucket_database_android_final { <init>(...); }
+
